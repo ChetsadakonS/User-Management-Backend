@@ -18,7 +18,6 @@
 ## 📁 โครงสร้างโปรเจกต์
 User-Management-Backend/
 ├── prisma/                 
-│   └── schema.prisma
 ├── src/
 │   ├── controllers/       
 │   ├── services/          
