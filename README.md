@@ -16,6 +16,7 @@
 - CORS – อนุญาตการเชื่อมต่อข้ามโดเมน (Frontend ↔ Backend)
   
 ## 📁 โครงสร้างโปรเจกต์
+```
 User-Management-Backend/
 ├── prisma/                 
 ├── src/
@@ -25,7 +26,8 @@ User-Management-Backend/
 │   └── server.js          
 ├── .env                   
 ├── package.json            
-└── README.md             
+└── README.md
+```          
 ## วิธีเริ่มต้นใช้งาน
 
 1. Clone โปรเจกต์:
@@ -33,6 +35,7 @@ User-Management-Backend/
 ```bash
 git clone https://github.com/ChetsadakonS/User-Management-Backend.git
 cd User-Management-Backend
+```
 ### 2. ติดตั้ง dependencies
 ```bash
 npm install หรือ npm i
