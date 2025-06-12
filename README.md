@@ -46,7 +46,7 @@ cd User-Management-Backend
 ```bash
 เข้าขึ้น branch develop และไฟล์ทั้งหมด
 git checkout -b develop
-git pull origin develo
+git pull origin develop
 ```
 
 ### 3. ติดตั้ง dependencies
